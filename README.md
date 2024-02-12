@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...IT sector
 - 🌱 I’m currently learning ...REACT
 - 💞️ I’m looking to collaborate on ...
-# 📫 How to reach me ...throughout Mail
+- 📫 How to reach me ...throughout Mail
 - 😄 Pronouns: ...abhii
 - ⚡ Fun fact: ...I am little confuse
 
