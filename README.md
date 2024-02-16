@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @abhii718
-- 👀 I’m interested in ...IT sector
-- 🌱 I’m currently learning ...REACT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...EXPRESS
 - 📫 How to reach me ...throughout Mail
 - 😄 Pronouns: ...abhii
-- ⚡ Fun fact: ...I am little confuse
+- 😇 Little confuse but yea so Happy
 
 <!---
 abhii718/abhii718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
