@@ -3,7 +3,7 @@
 📫 You can reach me via **email**.  
 😄 Pronouns: **abhii**  
 😇 Feeling a little confused but still **happy**!  
-You can find my GitHub profile [here](https://github.com/abhii718).
+🥰 GitHub profile [GitHub](https://github.com/abhii718).
 
 
 <!---
