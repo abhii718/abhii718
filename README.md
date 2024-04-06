@@ -13,7 +13,7 @@
 
 ### 🥰 Introduction
 
-I'm Abhii, a BCA student who is passionate about learning and exploring the world of programming. I enjoy diving into new technologies, and currently, I'm focusing on mastering JavaScript.js. Feel free to connect with me on GitHub or reach out via email!
+I'm Abhii, a BCA student who is passionate about learning and exploring the world of programming. I enjoy diving into new technologies, and currently, I'm focusing on Frontend Development firstly and After it I'll go for the Fullstack Webdev. Feel free to connect with me on GitHub or reach out via email!
 
 ---
 
