@@ -11,22 +11,20 @@
 
 
 
-### 👋 Hi, I’m Abhii! [My-Portfolio](https://abhii718.github.io/Portfolio/)
 
-- 🌱 **Currently Learning:** JavaScript.js
-- 📫 **Contact:** [Email](mailto:abhinavsingh47639@gmail.com)
-- 😄 **Pronouns:** He/Him
-- 😇 **Feeling:** Confused but Happy!
+# 👋 Hi, I'm Abhinay Singh
+### IT Professional | Web Developer | Tech Support Specialist
+
+I am a dedicated tech professional with a strong foundation in computer applications and active expertise in web development. Currently, I am applying my analytical and troubleshooting skills in corporate operations to deliver seamless user experiences and innovative technical solutions.
+
+* 💼 Currently working as a **Customer Support Executive** at **Tech Mahindra**
+* 🎓 **BCA Graduate** from Mewar Institute of Management
+* 🌱 Currently honing my skills in **Frontend Development (React, JS) & IT Troubleshooting**
+* 💬 Ask me about **Web Development, CRM Management, and Technical Support**
+* 📫 Reach out to me: **[Yahan Apna Email Likh Dena]**
+* ⚡ Fun fact: I believe a good mindset and logic can solve any technical bug!
 
 ---
-
-### 🥰 Introduction
-
-I'm Abhii, a BCA student who is passionate about learning and exploring the world of programming. I enjoy diving into new technologies, and currently, I'm focusing on Frontend Development firstly and After it I'll go for the Fullstack Webdev. Feel free to connect with me on GitHub or reach out via [Email](mailto:abhinavsingh47639@gmail.com)!
-
----
-
-<!---
-abhii718/abhii718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack & Core Skills
+**Web Technologies:** HTML5, CSS3, JavaScript, React.js
+**Corporate Skills:** IT Troubleshooting, CRM Operations, Technical Support, Client Resolution
